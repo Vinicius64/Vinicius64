@@ -1,4 +1,4 @@
-Meu nome é **Vinicius Oliveira** e sou um entusiasta da tecnologia. Minha jornada gira em torno da programação, desenvolvimento de software e aprendizado contínuo.
+Meu nome é **Vinicius Oliveira** e sou um estudante de Analise e Desenvolvimento de Sistemas. Minha jornada gira em torno da programação, desenvolvimento de software e aprendizado contínuo.
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Vinicius64&show_icons=true&theme=github_dark"
