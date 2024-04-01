@@ -1,15 +1,5 @@
 Meu nome é **Vinicius Oliveira** e sou um estudante de Analise e Desenvolvimento de Sistemas. Minha jornada gira em torno da programação, desenvolvimento de software e aprendizado contínuo.
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Vinicius64&show_icons=true&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Vinicius64&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius64&show_icons=true" />
-</picture>
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius64&show_icons=true&theme=dracula&count_private=true)
 Atualmente estou matriculado no curso de ADS no IFSP São Carlos.
 ##
 **Linguagens e tecnologias das quais tenho conhecimento incluem:**
