@@ -1,5 +1,6 @@
 Meu nome é **Vinicius Oliveira** e sou um estudante de Analise e Desenvolvimento de Sistemas. Minha jornada gira em torno da programação, desenvolvimento de software e aprendizado contínuo.
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius64&show_icons=true&theme=dracula&count_private=true)
+<br>
 Atualmente estou matriculado no curso de ADS no IFSP São Carlos.
 ##
 **Linguagens e tecnologias das quais tenho conhecimento incluem:**
