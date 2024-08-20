@@ -2,9 +2,9 @@
 
 Olá! Meu nome é **Vinicius Oliveira** e sou um estudante de Análise e Desenvolvimento de Sistemas. Minha jornada gira em torno da programação, desenvolvimento de software e aprendizado contínuo.
 
-## Sobre Mim
+## Carreira
 
-Atualmente estou matriculado no curso de ADS no IFSP São Carlos.
+Atualmente estou matriculado no curso de ADS no IFSP São Carlos e trabalho com nodejs e AWS.
 
 ## Estatísticas do GitHub
 
@@ -14,6 +14,10 @@ Atualmente estou matriculado no curso de ADS no IFSP São Carlos.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+## Gráfico de Commits
+
+![Gráfico de Commits](https://activity-graph.herokuapp.com/graph?username=Vinicius64&theme=dracula)
 
 ## Tecnologias e Ferramentas
 
