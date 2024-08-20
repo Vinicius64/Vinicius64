@@ -15,9 +15,9 @@ Atualmente estou matriculado no curso de ADS no IFSP São Carlos e trabalho com 
   </a>
 </div>
 
-## Gráfico de Commits
+## Gráfico de Commits por Semana
 
-![Gráfico de Commits](https://activity-graph.herokuapp.com/graph?username=Vinicius64&theme=dracula)
+<img alt="Commits por Semana" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius64&amp;theme=dracula">
 
 ## Tecnologias e Ferramentas
 
