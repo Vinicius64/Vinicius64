@@ -8,16 +8,17 @@ Atualmente estou matriculado no curso de ADS no IFSP São Carlos e trabalho com 
 
 ## Estatísticas do GitHub
 
-<div>
+<div align="center">
   <a href="https://github.com/Vinicius64">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius64&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius64&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=Vinicius64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
 ## Gráfico de Commits por Semana
-
-<img alt="Commits por Semana" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius64&amp;theme=dracula">
+<div align = "center">
+  <img alt="Commits por Semana" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius64&amp;theme=dracula">
+</div>
 
 ## Tecnologias e Ferramentas
 
