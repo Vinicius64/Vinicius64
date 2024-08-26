@@ -10,8 +10,7 @@ Atualmente estou matriculado no curso de ADS no IFSP São Carlos e trabalho com 
 
 <div align="center">
   <a href="https://github.com/Vinicius64">
-    <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius64&layout=compact&langs_count=7&theme=dracula"/>
-    <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=Vinicius64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius64&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
